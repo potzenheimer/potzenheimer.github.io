@@ -124,6 +124,13 @@ module.exports = function (grunt) {
                 src: ['hyde/_layouts/*'],
                 dest: '_layouts/'
             },
+            posts: {
+                expand: true,
+                flatten: true,
+                cwd: 'bower_components/',
+                src: ['hyde/_posts/*'],
+                dest: '_posts/'
+            },
             assets: {
                 expand: true,
                 flatten: true,
@@ -270,6 +277,7 @@ module.exports = function (grunt) {
     grunt.registerTask('dist-cb', ['rev']);
 
     // Template distribution task.
+    grunt.registerTask('jkl', ['jekyll:theme']);
     grunt.registerTask('dist-html', ['jekyll:theme', 'copy-templates', 'sed']);
 
     // Concurrent distribution task
