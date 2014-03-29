@@ -75,8 +75,8 @@ html {
   color: #fff;
 }
 
-.sidebar-img {
-  text-align: center;
+.sidebar-img > img {
+  margin: 0 auto 1rem;
 }
 
 /* About section */
