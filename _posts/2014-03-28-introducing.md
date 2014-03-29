@@ -21,4 +21,4 @@ I am convinced that these hold true about every software development project:
 While it is perfectly natural for every developer and web consulting company to embrace the bittersweet truth behind these three facts of life, clients seem to disagree every once in a while and insist on trying to bend the universe as if it was possible to actually make an
 exception just this once.
 
-I often experience the best intentions being tossed overboard after dealines have been meet. The first day after a new application, web app or site goes into production all principles and asumptions that held true during development somehow do not make it into post-release project phases.
+I often experience the best intentions being tossed overboard after dealines have been meet. The first day after a new application, web app or site goes into production all principles and asumptions that held true during development somehow do not make it into the post-release project phase.

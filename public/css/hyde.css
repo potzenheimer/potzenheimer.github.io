@@ -75,6 +75,10 @@ html {
   color: #fff;
 }
 
+.sidebar-img {
+  text-align: center;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
