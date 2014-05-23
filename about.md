@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-These pages represent the musings and ideas of Christoph Böhner, living in Augsburg, Germany. Whiskey & beer inspired Pyton code made in Bavaria.
-It's made by [@mpotzenheimer](https://twitter.com/potzenheimer).
+These pages represent the musings and ideas of Christoph Böhner, living in Augsburg, Germany. Whiskey & beer inspired Python code made in Bavaria by [@mpotzenheimer](https://twitter.com/potzenheimer).
 
 Christoph Böhner, Von-der-Tann-Str. 54, 86159 Augsburg Germany
 
@@ -19,7 +18,7 @@ CMS Plone. the fun parts of my daily work might also involve a bit of Pyramid, D
 
 * Developed on GitHub [GitHub](https://github.com/potzenheimer)
 * Coded with [Sublime Text 3](http://sublimetext.com), an amazing code editor
-* No proprietary system was harmed by using Open Source
+* No proprietary system was harmed while producing this side
 
 Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/potzenheimer).
 
