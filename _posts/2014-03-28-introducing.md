@@ -21,4 +21,6 @@ I am convinced that these hold true about every software development project:
 While it is perfectly natural for every developer and web consulting company to embrace the bittersweet truth behind these three facts of life, clients seem to disagree every once in a while and insist on trying to bend the universe as if it was possible to actually make an
 exception just this once.
 
-I often experience the best intentions being tossed overboard after dealines have been meet. The first day after a new application, web app or site goes into production all principles and asumptions that held true during development somehow do not make it into the post-release project phase.
+I often experience the best intentions being tossed overboard after deadlines have been meet. The first day after a new application, web app or site goes into production all principles and asumptions that held true during development somehow do not make it into the post-release project phase.
+
+Contrary to the fact, that after moving the project into deployment we need to be double careful when running updates, since we are dealing with a running system, the client suddenly treats every small requirement as urgent and asumes ad hoc reaction on the development team part. It is correct that small bugs can be fixed fast and efficient without proper relase planing. Especially if you follow continuous integration precedures. Still the fact that new bugs get introduced just as fast as old chores get resolved goes mostly unnoticed.
