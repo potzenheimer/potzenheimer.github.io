@@ -9,11 +9,11 @@ Basically it all boils down to the simple fact that optimizing a website for mob
 
 ## A primer and a failure
 
-These days I mostly get my incentives from [Smashing Magazine](http://smashingmagazine.com) and the connected editor-in-chief curated Twitter channel `@smashingmag`. Recently the discussions have been revolving around the [critical loading path](http://www.feedthebot.com/pagespeed/prioritize-visible-content.html), technics for ["breaking news at 1000ms"](https://twitter.com/smashingmag/status/494949979820417024) at the Guardian or how large and well known sites [organize frontend architecture (https://twitter.com/smashingmag/status/495024899648278528)].
+These days I mostly get my incentives from [Smashing Magazine](http://smashingmagazine.com) and the connected editor-in-chief curated Twitter channel `@smashingmag`. Recently the discussions have been revolving around the [critical loading path](http://www.feedthebot.com/pagespeed/prioritize-visible-content.html), technics for ["breaking news at 1000ms"](https://twitter.com/smashingmag/status/494949979820417024) at the Guardian or how large and well known sites [organize frontend architecture](https://twitter.com/smashingmag/status/495024899648278528).
 
 Therefore the last days have been glorious and filled with exiting reads that made me suck in the information and learn my share from how development work is done by the big guys in the business.
 
-But what a disappointment to find the latest issue of [Website Boosting Magazine (http://www.websiteboosting.com/)] and skim through an article focusing on on-page search engine optimization and finding a rather high number of advice that is just plain wrong. Coming from [optimising for 60fps everywhere](https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript) I could not believe that the articles author was actually trying to tell me to do the exact opposite than what I had learned earlier today.
+But what a disappointment to find the latest issue of [Website Boosting Magazine](http://www.websiteboosting.com/) and skim through an article focusing on on-page search engine optimization and finding a rather high number of advice that is just plain wrong. Coming from [optimising for 60fps everywhere](https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript) I could not believe that the articles author was actually trying to tell me to do the exact opposite than what I had learned earlier today.
 
 ## But what is this fuss all about?
 
