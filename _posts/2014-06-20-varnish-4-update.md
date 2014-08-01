@@ -16,9 +16,8 @@ This is out adopted `varnish.vcl` asuming a *plone.app.caching* installation wit
 *split-view caching* enabled. Feel free to use parts of this for your own speed
 adventures.
 
-``
-    vcl 4.0;
 
+    vcl 4.0;
     import std;
 
     # Configure balancer server as back end
@@ -169,4 +168,8 @@ adventures.
         }
     }
 
-```
+
+Adopt to your own needs and enjoy your speedy setup.
+
+*Note:* parts of this configuration file have been directly taken from the
+`plone.app.caching` example and need to be attributed to the original authors.
