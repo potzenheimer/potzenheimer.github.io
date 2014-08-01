@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-These pages represent the musings and ideas of Christoph Böhner, living in Augsburg, Germany. Whiskey & beer inspired Python code made in Bavaria by [@mpotzenheimer](https://twitter.com/potzenheimer).
+These pages represent the musings and ideas of Christoph Böhner, living in Augsburg, Germany. Whiskey & beer inspired Python code made in Bavaria by [@potzenheimer](https://twitter.com/potzenheimer).
 
 Christoph Böhner, Von-der-Tann-Str. 54, 86159 Augsburg Germany
 
