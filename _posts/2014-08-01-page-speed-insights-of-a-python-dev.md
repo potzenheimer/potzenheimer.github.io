@@ -5,7 +5,7 @@ title: How page speed is the most responsive part in RWD
 
 Over the last couple of days several smarter people than me have posted their ideas on making sites load with maximum speed and elaborated on the suble differences in user experience when facing slow loading pages on a crappy mobile network.
 
-Basically it all boils down to the simple fact that optimizing a website for mobile usage the site must load as fast as possible in order to be usable on a shaky EDGE network. Webdesigners and developers need to respond to the rising trend of mobile internet usage by building sites that focus aon speed from the early stages.
+Basically it all boils down to the simple fact that optimizing a website for mobile usage the site must load as fast as possible in order to be usable on a shaky EDGE network. Webdesigners and developers need to respond to the rising trend of mobile internet usage by building sites that focus on speed from the early stages of design and concept.
 
 ## A primer and a failure
 
