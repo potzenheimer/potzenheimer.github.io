@@ -17,7 +17,7 @@ But what a disappointment to find the latest issue of [Website Boosting Magazine
 
 ## But what is this fuss all about?
 
-Well in order to be fair it has to be stated that the Website Boosting article was written by a marketing and communications professional and that the best web development professionals of the trade might probably years ahead in knowledge.
+Well in order to be fair it has to be stated that the Website Boosting article was written by a marketing and communications professional and that the best web development professionals of the trade might probably be years ahead in knowledge.
 
 But reading that one should put your CSS and Javascript code into linked external files to speed up one's site for search engine optimization while others promote inlining the critical CSS/JS to speed up things is quite a stretch.
 
