@@ -22,7 +22,7 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/potzenheimer
 
 # Server
 destination:      ./_site
